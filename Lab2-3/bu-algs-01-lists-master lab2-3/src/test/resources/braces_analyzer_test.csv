@@ -1,0 +1,5 @@
+Input, Expected result
+(), true
+)(, false
+(a + b + c[1]) = <x + y> {}, true
+(a + [b)], false
